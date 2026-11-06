@@ -1,6 +1,7 @@
 ---
 title: "Lab 4: Binary Logistic Regression: Model Specification, Comparison, and Interpretation"
 author: "Ching-Yi Cheng"
+date: Nov 06 2026
 format:
   html:
     toc: true
@@ -481,7 +482,6 @@ coefficient_results |>
       "Reference categories are male and first class."
     )
   )
-
 ```
 
 ## 5.3. Calculate odds ratios and their confidence intervals
@@ -567,7 +567,6 @@ preferred_performance |>
       "model with the intercept-only model."
     )
   )
-
 ```
 
 ## 5.5. Overarching summary
