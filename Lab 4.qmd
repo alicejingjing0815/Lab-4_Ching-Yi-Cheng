@@ -17,10 +17,10 @@ execute:
 ---
 
 # Introduction
-Survival on the Titanic may have been associated with passengers’ sex, ticket class, and age. This report uses binary logistic regression to examine these associations. Four nested models are compared to determine whether each predictor contributes additional information about survival. The preferred model is then evaluated using diagnostic checks and interpreted using odds ratios and predicted probabilities.
+Survival on the Titanic may have been associated with passengers’ sex, ticket class, and age. This report uses binary logistic regression to examine these associations. Four nested models are compared to determine whether each predictor contributes additional information about survival. The preferred model is then evaluated using diagnostic checks and interpreted using odds ratios and predicted probabilities..
 
 # Workflow
-The analysis begins with data preparation and descriptive statistics. Next, four nested models are fitted: an intercept-only model, a model including sex, a model adding ticket class, and a model further adding age. These models are compared using likelihood-ratio tests, AIC, and BIC. Diagnostic checks inform the final model selection, followed by interpretation, visualization, and discussion of the findings and limitations.
+The analysis begins with data preparation and descriptive statistics. Next, four nested models are fitted: an intercept-only model, a model including sex, a model adding ticket class, and a model further adding age. These models are compared using likelihood-ratio tests, AIC, and BIC. Diagnostic checks inform the final model selection, followed by interpretation, visualization, and discussion of the findings and limitations..
 
 # Overview of the Models
 For this lab, we will focus on four variables:
